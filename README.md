@@ -6,3 +6,4 @@ Exemplo
 * Bootstrap
 * SQL
 * Entity Framework Core
+* ASP.NET Razor
